@@ -1,16 +1,69 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Anamika Bharti</h1>
+<h3 align="center">🚀 Full Stack Developer | B.Tech CSE Student</h3>
 
-<!--
-**AnamikaBharti257/AnamikaBharti257** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Web+Developer;Cyber+Security+Learner&center=true&width=500&height=50">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me  
+- 🎓 B.Tech in Computer Science  
+- 💻 Passionate about Web Development  
+- 🔐 Interested in Cyber Security  
+- 🌱 Currently learning Full Stack Development  
+
+---
+
+## 🛠 Skills  
+
+### 💻 Programming Languages  
+C++ | Java | Python  
+
+### 🌐 Web Development  
+HTML | CSS  
+
+### 🚀 Development  
+Full Stack Developer  
+
+---
+
+## 🔥 Tech Stack  
+
+<p>
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c%2B%2B"/>
+<img src="https://img.shields.io/badge/Java-red?style=for-the-badge&logo=java"/>
+<img src="https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python"/>
+<img src="https://img.shields.io/badge/HTML-orange?style=for-the-badge&logo=html5"/>
+<img src="https://img.shields.io/badge/CSS-blue?style=for-the-badge&logo=css3"/>
+</p>
+
+---
+
+## 📊 GitHub Stats  
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150"/>
+</p>
+
+---
+
+## 🚀 Projects  
+- 🍔 Food Delivery App (Zomato Clone)  
+- 🎬 Netflix Clone  
+- 🌐 Personal Portfolio Website  
+
+---
+
+## 🌐 Connect With Me  
+- 📧 Email: yourmail@gmail.com  
+
+---
+
+## 👀 Profile Views  
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue" alt="views"/>
+
+---
+
+⭐ *Thanks for visiting my profile!*  
