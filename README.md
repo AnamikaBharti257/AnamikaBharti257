@@ -43,7 +43,7 @@ Full Stack Developer
 ## 📊 GitHub Stats  
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" height="150"/>
+<img src=![Stats](https://github-readme-stats.vercel.app/api?username=AnamikaBharti257&show_icons=true&theme=radical)
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" height="150"/>
 </p>
 
@@ -57,12 +57,21 @@ Full Stack Developer
 ---
 
 ## 🌐 Connect With Me  
-- 📧 Email: yourmail@gmail.com  
+- 📧 Email: bhartianamika012@gmail.com 
 
 ---
 
+## 💻 Most Used Languages  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnamikaBharti257&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+---
+
+
 ## 👀 Profile Views  
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20views&color=blue" alt="views"/>
+<img src="https://komarev.com/ghpvc/?username=AnamikaBharti257&label=Profile%20views&color=blue" alt="views"/>
 
 ---
 
